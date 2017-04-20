@@ -1,2 +1,3 @@
 # hello-world
-this is "supposedly" my first github repository
+
+this is just  a drill. No codes are here.
